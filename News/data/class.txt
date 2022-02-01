@@ -1,0 +1,5 @@
+news_agriculture
+news_house
+news_edu
+news_car
+news_culture
